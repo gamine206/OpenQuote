@@ -92,6 +92,6 @@ const quotes = [
 
 {
     quote: "We make choices and we don't look back",
-    name: "Mai Gia Minh",
+    name: "GaMi",
     githubLink: "https://github.com/gamine206"
 },
