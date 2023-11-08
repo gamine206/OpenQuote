@@ -89,3 +89,9 @@ const quotes = [
          profilLink: "https://github.com/ndpdung25",
     },
 ];
+
+{
+    quote: "We make choices and we don't look back",
+    name: "Mai Gia Minh",
+    githubLink: "https://github.com/gamine206"
+},
